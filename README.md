@@ -70,12 +70,5 @@ Erick Harrington harrington@gmail.com
 Erick Burgess
 
 **PROJECT STRUCTURE**
-SimpleSearchEngine/
-│
-|-- task/
-|    |
-|  src/
-│   ├── search/
-│        ├── Main.java/
-|
-└── README.md
+
+SimpleSearchEngine - task - src - search - Main.java/
