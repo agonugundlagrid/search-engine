@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5501#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Tue, 01 Oct 2024 11:51:10 UTC"
+record: 6
